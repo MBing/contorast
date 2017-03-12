@@ -1,3 +1,14 @@
 # Introduction
 
-Add your intro copy in `./pages/intro.md` or alternatively if you do not want a intro (or any other) page set `content` in your `data.json` file to `null`.
+This is a pattern library that will be used for Contorion. If you see
+a component on the website of [Contorion](contorion.de) then this should
+be available here as well.
+
+
+The easiest way to navigate these components is through the left
+navigation list. The components also hold the code that goes along with
+it. So it is easier to create these components for the developers using
+them. If
+
+If a component is not there or if the component has a mistake in it,
+ please contact [Gary](gary.fleischer@contorion.de)
