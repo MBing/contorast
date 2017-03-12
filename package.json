@@ -4,8 +4,7 @@
   "description": "A pattern library for Contorion",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +23,8 @@
   "homepage": "https://github.com/MBing/contorast#readme",
   "engines": {
     "node": "6.9.4"
+  },
+  "dependencies": {
+    "node-static": "^0.7.9"
   }
 }
