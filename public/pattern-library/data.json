@@ -24,7 +24,7 @@
         "show_version": true,
         "max_width": null,
         "titles": {
-            "library_title": "Pattern Library",
+            "library_title": null,
             "pages_title": "Overview",
             "components_title": "Components"
         }
@@ -36,7 +36,7 @@
     "font_libraries": {
         "typekit_code": null,
         "typography_web_fonts": null,
-        "google_web_fonts": null
+        "google_web_fonts": ["https://fonts.googleapis.com/css?family=Teko"]
     },
     "content": {
         "show_first_page_on_load": true,
