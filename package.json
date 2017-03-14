@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/MBing/contorast#readme",
   "engines": {
-    "node": "6.9.4"
+    "node": "6.9.4",
+    "npm": "3.10.10"
   },
   "dependencies": {
     "node-static": "^0.7.9"
