@@ -1,6 +1,6 @@
 var static = require('node-static');
 
-var file = new static.Server('./public');
+var file = new static.Server('./public/pattern-library/');
 
 require('http').createServer(function (request, response) {
     request.addListener('end', function () {
