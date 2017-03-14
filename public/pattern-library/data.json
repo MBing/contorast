@@ -1,15 +1,15 @@
 {
-    "project_logo": null,
+    "project_logo": "contorion_logo.svg",
     "project_favicon": "favicon.ico",
     "project_name": null,
-    "project_url": null,
-    "copyright_start_year": null,
+    "project_url": "https://contorast.herokuapp.com",
+    "copyright_start_year": 2017,
     "client_name": null,
     "client_url": null,
     "creators": [
         {
-            "name": null,
-            "url": null
+            "name": "Martin Bing",
+            "url": "http://www.martinbing.com"
         }
     ],
     "theme": {
@@ -69,44 +69,50 @@
             ]
         },
         {
-            "name": "branding",
-            "title": "Branding",
+            "name": "colors",
+            "title": "Colors",
             "components": [
                 {
-                    "group": "branding",
+                    "group": "colors",
                     "name": "blue-color-palette",
                     "title": "Blue",
                     "type": "colors",
                     "colors": ["#eff7ff", "#60b0ff", "#1d99fa", "#3b5998"]
                 },
                 {
-                    "group": "branding",
+                    "group": "colors",
                     "name": "grey-color-palette",
                     "title": "Grey",
                     "type": "colors",
                     "colors": ["#f3f3f3", "#cccccc", "#999999", "#333333"]
                 },
                 {
-                    "group": "branding",
+                    "group": "colors",
                     "name": "green-color-palette",
                     "title": "Green",
                     "type": "colors",
                     "colors": ["#d3eba1", "#5da422", "#83b81b", "#5d8600"]
                 },
                 {
-                    "group": "branding",
+                    "group": "colors",
                     "name": "red-color-palette",
                     "title": "Red",
                     "type": "colors",
                     "colors": ["#fae7e7", "#c50e12",  "#dd4b39", "#e52d27", "#933933"]
                 },
                 {
-                    "group": "branding",
+                    "group": "colors",
                     "name": "yellow-color-palette",
                     "title": "Yellow",
                     "type": "colors",
                     "colors": ["#fdf7e6", "#e3b000"]
-                },
+                }
+            ]
+        },
+        {
+            "name": "branding",
+            "title": "Branding",
+            "components": [
                 {
                     "group": "branding",
                     "name": "logo",
