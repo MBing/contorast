@@ -56,8 +56,14 @@
             "components": [
                 {
                     "group": "typography",
-                    "name": "regular",
-                    "title": "Regular",
+                    "name": "headers",
+                    "title": "Headers",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
+                    "name": "headers-small",
+                    "title": "Headers small",
                     "width": "half"
                 }
             ]
