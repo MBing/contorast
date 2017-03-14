@@ -30,7 +30,9 @@
         }
     },
     "assets": {
-        "css": [],
+        "css": [
+            "../assets/css/styles.css"
+        ],
         "js": []
     },
     "font_libraries": {
