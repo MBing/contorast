@@ -68,10 +68,38 @@
             "components": [
                 {
                     "group": "branding",
-                    "name": "color-palette",
-                    "title": "Color Palette",
+                    "name": "blue-color-palette",
+                    "title": "Blue",
                     "type": "colors",
-                    "colors": []
+                    "colors": ["#eff7ff", "#60b0ff", "#1d99fa", "#3b5998"]
+                },
+                {
+                    "group": "branding",
+                    "name": "grey-color-palette",
+                    "title": "Grey",
+                    "type": "colors",
+                    "colors": ["#f3f3f3", "#cccccc", "#999999", "#333333"]
+                },
+                {
+                    "group": "branding",
+                    "name": "green-color-palette",
+                    "title": "Green",
+                    "type": "colors",
+                    "colors": ["#d3eba1", "#5da422", "#83b81b", "#5d8600"]
+                },
+                {
+                    "group": "branding",
+                    "name": "red-color-palette",
+                    "title": "Red",
+                    "type": "colors",
+                    "colors": ["#fae7e7", "#c50e12",  "#dd4b39", "#e52d27", "#933933"]
+                },
+                {
+                    "group": "branding",
+                    "name": "yellow-color-palette",
+                    "title": "Yellow",
+                    "type": "colors",
+                    "colors": ["#fdf7e6", "#e3b000"]
                 },
                 {
                     "group": "branding",
@@ -88,7 +116,8 @@
                 {
                     "group": "buttons",
                     "name": "default",
-                    "title": "Default Button"
+                    "title": "Default Button",
+                    "width": "half"
                 }
             ]
         }

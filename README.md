@@ -2,5 +2,4 @@
 
 This pattern library is using the [Astrum](http://astrum.nodividestudio.com/) framework for its setup.
 
-All the info you need should be available when you serve
-`./public/pattern-library/`
+To view the content, run `yarn start`.
