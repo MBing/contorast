@@ -4,7 +4,8 @@
   "description": "A pattern library for Contorion",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "serve": "sane --watchman './public/pattern-library/assets/css/*.css' "
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
     "npm": "3.10.10"
   },
   "dependencies": {
-    "node-static": "^0.7.9"
+    "node-static": "^0.7.9",
+    "sane": "^1.6.0"
   }
 }
