@@ -129,8 +129,32 @@
             "components": [
                 {
                     "group": "buttons",
-                    "name": "default",
-                    "title": "Default Button",
+                    "name": "regular",
+                    "title": "Regular Buttons",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "inverted",
+                    "title": "Inverted Buttons",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "navigation",
+                    "title": "Navigation Buttons",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "icon",
+                    "title": "Icon Buttons",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "other",
+                    "title": "Other Buttons",
                     "width": "half"
                 }
             ]
