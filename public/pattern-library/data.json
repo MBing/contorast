@@ -118,8 +118,7 @@
                 {
                     "group": "branding",
                     "name": "logo",
-                    "title": "Logo",
-                    "width": "half"
+                    "title": "Logo"
                 }
             ]
         },
