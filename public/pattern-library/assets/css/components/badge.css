@@ -1,0 +1,42 @@
+.badge {
+    display: inline-block;
+    min-width: 1em;
+    padding: .6em;
+    border-radius: 50%;
+    font-size: 1rem;
+    text-align: center;
+    background-color: #1d99fa;
+    color: white;
+    vertical-align: middle;
+}
+
+/* BADGE STATES */
+
+.badge--success {
+    background-color: rgb(93, 164, 34);
+}
+.badge--warning {
+    background-color: rgb(227, 176, 0);
+}
+.badge--error {
+    background-color: rgb(197, 14, 18);
+}
+
+/* BADGE SIZES */
+
+.badge--small {
+    padding: .3em .6em;
+}
+.badge--medium {
+    line-height: 2;
+    padding: .6em .55em;
+}
+.badge--large {
+    line-height: 3.4;
+    padding: .3em .6em;
+}
+
+/* BADGE ICON */
+.badge-icon span {
+    margin-left: -.15em;
+}

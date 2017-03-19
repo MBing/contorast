@@ -1,3 +1,12 @@
-.headline--small {
-
+h1.headline--small {
+    font-size: 1.5rem;
+}
+h2.headline--small {
+    font-size: 1.125rem;
+}
+h3.headline--small {
+    font-size: 1rem;
+}
+h4.headline--small {
+    font-size: .875rem;
 }
