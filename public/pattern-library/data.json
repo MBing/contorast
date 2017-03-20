@@ -195,6 +195,17 @@
                     "width": "half"
                 }
             ]
+        },
+        {
+            "name": "lists",
+            "title": "Lists",
+            "components": [
+                {
+                    "group": "lists",
+                    "name": "products",
+                    "title": "Products"
+                }
+            ]
         }
     ],
     "version": "1.9.3"

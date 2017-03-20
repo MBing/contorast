@@ -1,0 +1,32 @@
+.product-list__item {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     border-bottom: 1px solid #ccc;
+}
+.product-list__item img {
+    margin-right: 1rem;
+    width: 50px;
+    height: 50px;
+}
+
+.product-list__item-description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex: 3;
+}
+
+.product-list__item-description h6 {
+    @extend .txt--truncate;
+    color: #999;
+}
+
+.product-list__price {
+     margin-right: 10px;
+ }
+
+.product-list__add-to-cart {
+    flex: 1;
+}
