@@ -37,6 +37,32 @@
 }
 
 /* BADGE ICON */
+
 .badge-icon span {
     margin-left: -.15em;
+}
+
+/* BADGE BUTTON LOOK */
+.badge-button {
+    @extend .button;
+    @extend .badge--small;
+    font-family: "Teko", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 1px 3px;
+    font-size: 13px;
+    border: 1px solid #ccc;
+}
+.badge-button--new-offer {
+    color: #5da422;
+    border-color: #5da422;
+
+}
+.badge-button--highlight-offer {
+    color: #c50e12;
+    border-color: #c50e12;
+}
+.badge-button--accessory {
+    color: #e3b000;
+    border-color: #e3b000;
 }

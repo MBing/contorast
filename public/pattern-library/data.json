@@ -39,7 +39,7 @@
         "typekit_code": null,
         "typography_web_fonts": null,
         "google_web_fonts": [
-            "https://fonts.googleapis.com/css?family=Teko"
+            "https://fonts.googleapis.com/css?family=Teko:400,600"
         ]
     },
     "content": {
@@ -148,8 +148,15 @@
                 },
                 {
                     "group": "branding",
-                    "name": "badges",
-                    "title": "Badges"
+                    "name": "circle-badges",
+                    "title": "Circle Badges",
+                    "width": "half"
+                },
+                {
+                    "group": "branding",
+                    "name": "button-look-badges",
+                    "title": "Button-look Badges",
+                    "width": "half"
                 }
             ]
         },
