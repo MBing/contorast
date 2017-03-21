@@ -49,10 +49,8 @@
     font-family: "Teko", sans-serif;
     text-transform: uppercase;
     font-weight: 600;
-    padding-top: 3px;
-    padding-bottom: 0;
-    font-size: 1rem;
-    line-height: 1.125;
+    padding: 3px 2px 0;
+    font-size: 13px;
     border: 1px solid #ccc;
 }
 .badge-button--new-offer {
